@@ -51,3 +51,30 @@ The classification approach was chosen over regression due to the inherent chall
   
       python detect.py --image <image_name>
 </ul>
+<h2>Working And Examples</h2>
+            
+    >python detect.py --image woman_1.jpg
+    Gender: Female
+    Age: 25-32years 
+<img src="detect_woman_1.png">
+ 
+    >python detect.py --image oldman_2.jpg
+    Gender: Male
+    Age: 60-100 years
+    
+    
+<img src="detect_oldman.png">
+          <p>><li>python detect.py --image man_1.jpg</li>
+    <li>Gender: Man</li>
+   <li> Age: 25-32 years </li> </p>
+
+    
+<img src="detecting man_1.png">
+
+    >python detect.py --image girl_2.jpg
+    Gender: Female
+    Age: 8-12 years  
+    
+<img src="detect_girl_2.png">
+            
+    
