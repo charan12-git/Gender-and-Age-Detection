@@ -51,6 +51,12 @@ The classification approach was chosen over regression due to the inherent chall
   
       python detect.py --image <image_name>
 </ul>
+ <p><b>Note: </b>The Image should be present in same folder where all the files are present</p> 
+<ul>
+  <li><b>Detecting Gender and Age of face through webcam</b> Use Command :</li>
+  
+      python detect.py
+</ul>
 <h2>Working And Examples</h2>
             
     >python detect.py --image woman_1.jpg
